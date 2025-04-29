@@ -19,7 +19,7 @@ Artifacts for each experiment are organized into structured experiment sub-direc
 
 - Register for a free account on www.quantumrings.com
 - Download a license file from https://portal.quantumrings.com/developer/keys/ and save it to ```~/.config/quantumrings/```
-- Request the experimental .whl file that enables paralelization in the Quantum Rings SDK from info@quantumrings.com, and reference this paper, and save it to the root of the source files with this repository.  For this work ```quantumringslib-0.11.11-cp311-cp311-manylinux_2_27_x86_64.whl``` was used
+- Request the experimental .whl file that enables parallelization in the Quantum Rings SDK from info@quantumrings.com, and reference this paper, and save it to the root of the source files with this repository.  For this work ```quantumringslib-0.11.11-cp311-cp311-manylinux_2_27_x86_64.whl``` was used
 
 Once that is complete, you can setup the environment using this command:
 
